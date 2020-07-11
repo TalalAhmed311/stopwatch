@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+}
+h1{
+    color: white;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+h2{
+    padding-top: 30px;
+    color: white;
+    /* color: red; */
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+.bound{
+
+    margin-top: 140px;
+    margin-left: 32%;
+    text-align: center;
+    border:  solid white 4px;
+    height: 100px;
+    width: 500px;
+    /* background-color: bisque; */
+    
+}
+
+.btn{
+    width: 110px;
+    margin-left: 20px;
+}
+
+i{
+    margin-right: 10px;
+}
